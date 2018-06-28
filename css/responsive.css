@@ -1,0 +1,16 @@
+@media screen and (max-width: 549px){
+	.title-super.text-thin{
+		font-size: 30px;
+	}
+	.title-logo{
+		margin-top: 10px;
+		width: 70px;
+		height: 70px;
+	}
+	.text-muted{
+		font-size: 25px;
+	}
+	.list-title{
+		font-size: 20px;
+	}
+}
